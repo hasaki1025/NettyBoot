@@ -1,0 +1,3 @@
+Netty:
+  port: 80
+  sourcePath: 'src/main/resources/static'
